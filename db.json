@@ -1,0 +1,296 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "BarcodeNo": "0000001",
+      "ItemName": "Item A",
+      "Quantity": 10,
+      "Discount": 5,
+      "Amount": 95,
+      "WholePrice": 70
+    },
+    {
+      "id": "2",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item B",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 120
+    },
+    {
+      "id": "3",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "abc",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 60
+    },
+    {
+      "id": "4",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item C",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 100
+    },
+    {
+      "id": "5",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item D",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 170
+    },
+    {
+      "id": "6",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item F",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 140
+    },
+    {
+      "id": "7",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item G",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 160
+    },
+    {
+      "id": "8",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item H",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 110
+    },
+    {
+      "id": "9",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item G",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 150
+    },
+    {
+      "id": "10",
+      "BarcodeNo": "9876543210987",
+      "ItemName": "Item H",
+      "Quantity": 20,
+      "Discount": 10,
+      "Amount": 180,
+      "WholePrice": 90
+    }
+  ],
+  "newPoints": [
+    {
+      "id": "0",
+      "name": "aa",
+      "amount": 1,
+      "note": "abcd",
+      "date": "2025-01-31",
+      "time": "12:00 PM"
+    },
+    {
+      "id": "c94c",
+      "formData": {
+        "name": "Dinidu",
+        "amount": 4444444444,
+        "note": "asdasdascasc ",
+        "date": "2025-01-31",
+        "time": "11:00:22 PM"
+      }
+    }
+  ],
+  "customers": [
+    {
+      "id": "001",
+      "number": "0773091012",
+      "customerName": "Heshan"
+    },
+    {
+      "id": "002",
+      "number": "0776091012",
+      "customerName": "Dinidu"
+    }
+  ],
+  "cashIn": [
+    {
+      "id": "ee33",
+      "cashInName": "Heshan",
+      "amount": 44,
+      "cashInNote": "dsad",
+      "cashInDate": "2025-02-15",
+      "cashInTime": "11:23:41 PM"
+    },
+    {
+      "id": "a57b",
+      "cashInName": "jjj",
+      "amount": 77777777,
+      "cashInNote": "7777",
+      "cashInDate": "2025-02-15",
+      "cashInTime": "11:32:29 PM"
+    },
+    {
+      "id": "1063",
+      "cashInName": "Heshan",
+      "amount": 20054,
+      "cashInNote": "aaa",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "3:06:13 PM"
+    },
+    {
+      "id": "560e",
+      "cashInName": "Heshan",
+      "amount": 20054,
+      "cashInNote": "aaa",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "3:06:13 PM"
+    },
+    {
+      "id": "0261",
+      "cashInName": "ssss",
+      "amount": 555555,
+      "cashInNote": "sss",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "10:15:46 PM"
+    }
+  ],
+  "cashOut": [
+    {
+      "id": "ee33",
+      "cashInName": "Heshan",
+      "amount": 44,
+      "cashInNote": "dsad",
+      "cashInDate": "2025-02-15",
+      "cashInTime": "11:23:41 PM"
+    },
+    {
+      "id": "c3f3",
+      "cashInName": "saS",
+      "amount": 777,
+      "cashInNote": "AQDWD",
+      "cashInDate": "2025-02-15",
+      "cashInTime": "11:35:25 PM"
+    },
+    {
+      "id": "e05b",
+      "cashInName": "Gesq",
+      "amount": 55,
+      "cashInNote": "aa",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "3:12:16 PM"
+    },
+    {
+      "id": "8886",
+      "cashInName": "kk",
+      "amount": 55,
+      "cashInNote": "kkk",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "10:15:46 PM"
+    },
+    {
+      "id": "11ef",
+      "cashInName": "kk",
+      "amount": 55,
+      "cashInNote": "kkk",
+      "cashInDate": "2025-02-16",
+      "cashInTime": "10:15:46 PM"
+    }
+  ],
+  "orders": [
+    {
+      "id": "6e8c",
+      "cashAmount": 5742.5,
+      "totalDiscount": 5,
+      "grossAmount": 5225,
+      "totalAmount": 5742.5,
+      "specialDiscount": 5742.5,
+      "delivery": 5742.5,
+      "packing": 5742.5,
+      "service": 5742.5,
+      "other": 5742.5,
+      "items": [
+        {
+          "product": "Item A",
+          "barcode": "1234567890123",
+          "qty": 55,
+          "unitPrice": 95,
+          "discount": 5
+        }
+      ]
+    },
+    {
+      "id": "0b45",
+      "cashAmount": "Cheque",
+      "totalDiscount": "500.00",
+      "grossAmount": "7000.00",
+      "totalAmount": "6708.00",
+      "specialDiscount": 100,
+      "delivery": 77,
+      "packing": 88,
+      "service": 99,
+      "other": 44,
+      "items": [
+        {
+          "product": "Item A",
+          "barcode": "0000001",
+          "qty": 100,
+          "unitPrice": 95,
+          "discount": 5
+        }
+      ]
+    },
+    {
+      "id": "e4b8",
+      "cashAmount": "Cheque",
+      "totalDiscount": 500,
+      "grossAmount": 9500,
+      "totalAmount": 8610,
+      "specialDiscount": 500,
+      "delivery": 22,
+      "packing": 11,
+      "service": 33,
+      "other": 44,
+      "items": [
+        {
+          "product": "Item A",
+          "barcode": "0000001",
+          "qty": 100,
+          "unitPrice": 95,
+          "discount": 5
+        }
+      ]
+    },
+    {
+      "id": "54d7",
+      "cashAmount": "Cheque",
+      "totalDiscount": 500,
+      "grossAmount": 7000,
+      "totalAmount": 5528,
+      "specialDiscount": 1000,
+      "delivery": 7,
+      "packing": 7,
+      "service": 7,
+      "other": 7,
+      "items": [
+        {
+          "product": "Item A",
+          "barcode": "0000001",
+          "qty": 100,
+          "unitPrice": 95,
+          "discount": 5
+        }
+      ]
+    }
+  ]
+}
